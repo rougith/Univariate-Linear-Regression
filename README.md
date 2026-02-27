@@ -47,7 +47,7 @@ plt.show()
 ## Output
 
 <img width="783" height="650" alt="{55E5E12B-A5FF-454F-95DB-E5B4B6F30846}" src="https://github.com/user-attachments/assets/e5e66a00-7d86-4b7b-ae86-85dfee4bd001" />
-<\br>
+
 <img width="799" height="573" alt="{BFA2D58F-8698-48DA-8D0C-1374DE4A8D2D}" src="https://github.com/user-attachments/assets/f5018fa0-5347-444b-aed8-827c6da6b754" />
 
 ## Result
